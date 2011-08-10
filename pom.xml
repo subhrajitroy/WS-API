@@ -83,9 +83,9 @@
     </build>
 
     <scm>
-        <url>http://github.com/motech/MOTECH-WS-API.git</url>
-        <connection>scm:git:ssh://git@github.com/motech/MOTECH-WS-API.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/motech/MOTECH-WS-API.git</developerConnection>
+        <url>https://github.com/subhrajitroy/WS-API.git</url>
+        <connection>scm:git:ssh://git@github.com:subhrajitroy/WS-API.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:subhrajitroy/WS-API.git</developerConnection>
     </scm>
 
     <profiles>
